@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=Security+Researcher+%F0%9F%94%93;Bug+Bounty+Hunter+%F0%9F%8E%AF;AI-Augmented+Pentester+%F0%9F%A4%96;Vietnamese+Hacker+%F0%9F%87%BB%F0%9F%87%B3)](https://github.com/n1nhprovip)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&lines=Security+Researcher+%F0%9F%94%93;Bug+Bounty+Hunter+%F0%9F%8E%AF;MotoGP+%F0%9F%8F%8D+Track+Days;Vietnamese+Hacker+%F0%9F%87%BB%F0%9F%87%B3)](https://github.com/n1nhprovip)
 
 <img src="https://komarev.com/ghpvc/?username=n1nhprovip&color=00ff41&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
@@ -15,12 +15,10 @@ researcher = {
     "name":       "N1nh",
     "location":   "Vietnam 🇻🇳",
     "role":       "Security Researcher & Bug Bounty Hunter",
-    "brain":      "Claude Code CLI — AI-augmented offensive security",
     "targets":    "17+ active targets | 100+ confirmed findings",
-    "authorized": "Anthropic CVP registered",
     "stack":      ["Python", "Go", "Bash", "PHP"],
-    "currently":  "Building automated AI pentest pipeline",
-    "fun_fact":   "My recon tool is an LLM. Your WAF is not ready."
+    "passion":    "MotoGP 🏍️  |  Track Days  |  Speed = Life",
+    "fun_fact":   "Break into systems by day, break lap records by night."
 }
 ```
 
@@ -60,13 +58,6 @@ researcher = {
 ![Dalfox](https://img.shields.io/badge/Dalfox-CC0000?style=flat-square&logo=go&logoColor=white)
 ![TruffleHog](https://img.shields.io/badge/TruffleHog-4B0082?style=flat-square&logo=github&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-
-**AI & Automation**
-
-![Claude](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_CVP-000000?style=flat-square&logo=anthropic&logoColor=white)
-![nodriver](https://img.shields.io/badge/nodriver-4EAA25?style=flat-square&logo=python&logoColor=white)
-![Patchright](https://img.shields.io/badge/Patchright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 **Infrastructure**
 
