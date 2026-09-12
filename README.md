@@ -73,32 +73,20 @@ researcher = {
 
 <div align="center">
 
-<table>
-<tr>
-<td>
+![Contributions](https://img.shields.io/badge/Contributions_2026-1%2C162-00FF41?style=flat-square&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Repos-34-0d1117?style=flat-square&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-47-FFD700?style=flat-square&logo=github&logoColor=black)
+![Followers](https://img.shields.io/badge/Followers-127-181717?style=flat-square&logo=github&logoColor=white)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1nhprovip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/n1nhprovip)
+<br>
 
-</td>
-<td>
+**Languages (across all repos)**
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1nhprovip&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/n1nhprovip)
-
-</td>
-</tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=n1nhprovip&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/n1nhprovip)
-
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=n1nhprovip&theme=onedark&no-frame=true&column=7&margin-w=4)](https://github.com/n1nhprovip)
+![Python](https://img.shields.io/badge/Python-38.4%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-21.7%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-18.2%25-777BB4?style=flat-square&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-12.1%25-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-9.6%25-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </div>
 
