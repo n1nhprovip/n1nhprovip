@@ -104,21 +104,19 @@ researcher = {
 
 ---
 
-## What I'm Building
+## 🏍️ On Track
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| **Security AI Memory Lab** | Automated AI pentest pipeline — Claude Code CLI as recon/hunt brain | 🟢 Active |
-| **Hunt Memory System** | BM25 pattern store — 114 confirmed vuln patterns from 17+ targets | 🟢 Active |
-| **Bridge.php** | Custom remote dev tool for serverless PHP deployment | ✅ Deployed |
-| **Pentest AI Integration** | 197-tool MCP server for automated exploitation | 🟢 Active |
+<div align="center">
 
-**Notable Targets (authorized testing):**
-- 🔓 `yourhook.site` — Full compromise: VM sandbox RCE, SSH persistence, self-heal cron
-- 🔓 `shiperx.com` — 38 findings, SSH root RCE, BSC wallet key exposure
-- 🔓 `fbnumber.com` — 38 findings, HIGH: unlimited enum bypass (172K/day)
-- 🔍 `vsmov.com` — 28 findings ongoing, IDOR, broken auth chains
-- 🔍 `daophimz.site` — 27 findings, SSRF blind oracle + persistent crawl job CRUD
+![MotoGP](https://img.shields.io/badge/MotoGP-Fan-FF6600?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xOS41IDhhNy41IDcuNSAwIDAgMC0xNSAwaDFhNi41IDYuNSAwIDAgMSAxMyAwek0xMiAxN2E1IDUgMCAxIDAgMC0xMCA1IDUgMCAwIDAgMCAxMHoiLz48L3N2Zz4=&logoColor=white)
+![Track Days](https://img.shields.io/badge/Track_Days-Speed%3DLife-00FF41?style=flat-square)
+![Lap Records](https://img.shields.io/badge/Lap_Records-Breaking-CC0000?style=flat-square)
+
+```
+"Slow is smooth. Smooth is fast."
+```
+
+</div>
 
 ---
 
